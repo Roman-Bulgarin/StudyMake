@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Булгарин 22ПТ2
 ==================================
